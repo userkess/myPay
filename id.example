@@ -1,0 +1,6 @@
+## Adjust the info below, remove this comment and rename the file to .id to allow the app to parse the settings
+
+{
+ "clientID":           "YourAPIid",
+ "clientSecret":       "YourAPIsecret"
+}
